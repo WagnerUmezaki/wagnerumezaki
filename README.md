@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wagner, a full Stack Software developer with a stronger backend background. Worked mainly with Java and Clojure to develop several APIs to achieve customer’s needs.
+I'm Wagner, a full stack software developer with a stronger backend background. Worked mainly with Java and Clojure to develop several APIs to achieve customer’s needs.
 Passionate about improving systems performance and building new features. Pursuing data science knowledge by resolving more related tasks.
 
 <div style="display: inline_block"><br>
