@@ -12,9 +12,4 @@ Passionate about improving systems performance and building new features. Pursui
   <img align="center" alt="docker" title="docker" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="git" title="git" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="aws" alt="aws" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-
-  <!--
-  <img align="center" alt="elixir" alt="elixir" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="phoenix" alt="phoenix" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
-  -->
 </div>
