@@ -3,7 +3,7 @@
 I'm Wagner, a full stack software developer with a stronger backend background. Worked mainly with Java and Clojure to develop several APIs to achieve customer’s needs.
 Passionate about improving systems performance and building new features. Pursuing data science knowledge by resolving more related tasks.
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="java" title="java" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="spring" title="spring" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="clojure" title="clojure" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
